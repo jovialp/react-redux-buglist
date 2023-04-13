@@ -28,9 +28,6 @@ const App = () => {
     <div className="container mx-auto px-5">
       <h1 className="text-lg font-extrabold text-center py-3">Bug List</h1>
       <div>
-        <label for="hs-trailing-button-add-on" className="sr-only">
-          Add Bug
-        </label>
         <div className="flex rounded-md shadow-sm">
           <input
             type="text"

@@ -1,3 +1,3 @@
 # react-redux-buglist
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-appyqy)
+[View on StackBlitz ⚡️](https://react-appyqy.stackblitz.io)

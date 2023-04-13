@@ -65,7 +65,7 @@ const App = () => {
             }`}
           >
             <svg
-              className="flex-shrink-0 h-6 w-6"
+              className="flex-shrink-0 h-6 w-6 cursor-pointer"
               width="16"
               height="16"
               viewBox="0 0 16 16"
@@ -92,7 +92,7 @@ const App = () => {
                 onClick={() => {
                   removeBug(bug.id);
                 }}
-                className="w-6 h-6 bg-red-400 inline-flex items-center text-sm font-medium rounded-full"
+                className="w-6 h-6 bg-red-400 inline-flex items-center text-sm font-medium rounded-full cursor-pointer"
               >
                 <svg
                   className="h-6 w-6"
